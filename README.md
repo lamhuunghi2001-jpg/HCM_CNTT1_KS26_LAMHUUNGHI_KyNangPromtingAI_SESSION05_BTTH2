@@ -145,18 +145,6 @@ KIỂM_TRA:
 
 ---
 
-C - Context: Bạn là chuyên gia nghiên cứu thị trường B2B cấp cao. Hãy suy nghĩ từng bước một và tính toán chi tiết trước khi đưa ra kết luận. Thông tin sản phẩm: [dán THÔNG TIN CHUNG].
-
-R - Request: Xác định 2 đến 3 nhóm khách hàng mục tiêu và 5 pain point mà sản phẩm giải quyết.
-
-E - Explanation: Kết quả này là đầu vào bắt buộc cho Prompt 2 (lập dàn ý) nên phải đúng cấu trúc, mã K và P không được đổi về sau.
-
-A - Action: Phân tích sản phẩm, suy ra nhóm khách hàng (vai trò, quy mô, ngành), với mỗi nhóm tìm tình huống công việc cụ thể gây ra pain point, gắn tính năng sản phẩm giải quyết tình huống đó. Chỗ cần số liệu mà chưa có thì ghi “CẦN XÁC MINH”, không bịa.
-
-T - Tone: Khách quan, súc tích, không ngôn từ quảng cáo.
-
-E - Extras: Chỉ trả về đúng khối dưới đây, không lời dẫn.
-
 ### PROMPT 3: VIẾT BÀI PR VÀ TỐI ƯU SEO
 
 **Vai trò:** Bạn là copywriter chuyên viết nội dung PR trong lĩnh vực công nghệ, có kinh nghiệm triển khai bài viết chuẩn SEO cho khách hàng doanh nghiệp.
